@@ -1,0 +1,15 @@
+D:\Challenge4\bin\Debug\net6.0\Challenge4.exe
+D:\Challenge4\bin\Debug\net6.0\Challenge4.deps.json
+D:\Challenge4\bin\Debug\net6.0\Challenge4.runtimeconfig.json
+D:\Challenge4\bin\Debug\net6.0\Challenge4.dll
+D:\Challenge4\bin\Debug\net6.0\Challenge4.pdb
+D:\Challenge4\obj\Debug\net6.0\Challenge4.csproj.AssemblyReference.cache
+D:\Challenge4\obj\Debug\net6.0\Challenge4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Challenge4\obj\Debug\net6.0\Challenge4.AssemblyInfoInputs.cache
+D:\Challenge4\obj\Debug\net6.0\Challenge4.AssemblyInfo.cs
+D:\Challenge4\obj\Debug\net6.0\Challenge4.csproj.CoreCompileInputs.cache
+D:\Challenge4\obj\Debug\net6.0\Challenge4.dll
+D:\Challenge4\obj\Debug\net6.0\refint\Challenge4.dll
+D:\Challenge4\obj\Debug\net6.0\Challenge4.pdb
+D:\Challenge4\obj\Debug\net6.0\Challenge4.genruntimeconfig.cache
+D:\Challenge4\obj\Debug\net6.0\ref\Challenge4.dll
